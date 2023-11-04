@@ -1,0 +1,321 @@
+[
+    {
+        "id": "as-Ez7xph",
+        "data": {
+            "id": "f6ddae74-be44-11ed-90b0-00155d8ed20c",
+            "name": "Видеокарта KFA2 GeForce RTX 3050 X White [35NSL8MD5WEK]",
+            "price": {
+                "current": 27299
+            },
+            "credit": {
+                "amount": 2661,
+                "period": 12
+            },
+            "primaryButton": "<span id=\"as-4Bz3dO\"></span>",
+            "wishlist": "<span id=\"as-VutNrB\" class=\"wishlist-button-placeholder wishlist-button-placeholder_btn\"></span>",
+            "hasHistory": true
+        }
+    },
+    {
+        "id": "as-Wihj3v",
+        "data": {
+            "id": "3ee95cc2-ca2a-11ed-90bc-00155d8ed20c",
+            "name": "Видеокарта Palit GeForce RTX 3050 Dual [NE63050018P1-1070D]",
+            "price": {
+                "current": 26999,
+                "min": 24799
+            },
+            "credit": {
+                "amount": 2250,
+                "isInstallment": true,
+                "period": 12
+            },
+            "primaryButton": "<span id=\"as-TWAeoB\"></span>",
+            "wishlist": "<span id=\"as-WZT-Gv\" class=\"wishlist-button-placeholder wishlist-button-placeholder_btn\"></span>",
+            "hasHistory": true
+        }
+    },
+    {
+        "id": "as-o_x0aN",
+        "data": {
+            "id": "f772a345-7b77-11ed-906c-00155d8ed20c",
+            "name": "Видеокарта Palit GeForce RTX 3050 StormX [NE63050018P1-1070F]",
+            "price": {
+                "current": 27999
+            },
+            "credit": {
+                "amount": 2729,
+                "period": 12
+            },
+            "primaryButton": "<span id=\"as-ShDYtD\"></span>",
+            "wishlist": "<span id=\"as-Id6RO5\" class=\"wishlist-button-placeholder wishlist-button-placeholder_btn\"></span>",
+            "isPrepay": false,
+            "tooltip": "Последняя цена продажи",
+            "hasHistory": true
+        }
+    },
+    {
+        "id": "as-MgmuvG",
+        "data": {
+            "id": "7a581276-6493-11ec-8f50-00155d8ed20c",
+            "name": "Видеокарта GIGABYTE GeForce RTX 3050 GAMING OC [GV-N3050GAMING OC-8GD]",
+            "price": {
+                "current": 31499
+            },
+            "credit": {
+                "amount": 3071,
+                "period": 12
+            },
+            "primaryButton": "<span id=\"as-h5y47B\"></span>",
+            "wishlist": "<span id=\"as-Qs-ZUE\" class=\"wishlist-button-placeholder wishlist-button-placeholder_btn\"></span>",
+            "isPrepay": false,
+            "tooltip": "Последняя цена продажи",
+            "hasHistory": true
+        }
+    },
+    {
+        "id": "as-nZjyfz",
+        "data": {
+            "id": "5a74a341-71b1-11ec-8f5a-00155d8ed20b",
+            "name": "Видеокарта KFA2 GeForce RTX 3050 X Black [35NSL8MD6YEK]",
+            "price": {
+                "current": 25999
+            },
+            "credit": {
+                "amount": 2534,
+                "period": 12
+            },
+            "primaryButton": "<span id=\"as-p04UGn\"></span>",
+            "wishlist": "<span id=\"as-h2bKmG\" class=\"wishlist-button-placeholder wishlist-button-placeholder_btn\"></span>",
+            "hasHistory": true
+        }
+    },
+    {
+        "id": "as-glb64W",
+        "data": {
+            "id": "8876673e-2525-11ea-a20c-00155df1b805",
+            "name": "Видеокарта ASUS GeForce RTX 2060 Dual EVO [DUAL-RTX2060-6G-EVO]",
+            "price": {
+                "current": 28699
+            },
+            "credit": {
+                "amount": 2798,
+                "period": 12
+            },
+            "primaryButton": "<span id=\"as-PN-neo\"></span>",
+            "wishlist": "<span id=\"as-S5O3eQ\" class=\"wishlist-button-placeholder wishlist-button-placeholder_btn\"></span>",
+            "isPrepay": false,
+            "tooltip": "Последняя цена продажи",
+            "hasHistory": true
+        }
+    },
+    {
+        "id": "as-Hy8W7g",
+        "data": {
+            "id": "b3f658c7-8b04-11ec-8f72-00155d8ed209",
+            "name": "Видеокарта MSI GeForce RTX 3050 VENTUS 2X OC [RTX 3050 VENTUS 2X 8G OC]",
+            "price": {
+                "previous": 30999,
+                "current": 28399
+            },
+            "credit": {
+                "amount": 2768,
+                "period": 12
+            },
+            "primaryButton": "<span id=\"as-60Im_j\"></span>",
+            "wishlist": "<span id=\"as-lMVw9D\" class=\"wishlist-button-placeholder wishlist-button-placeholder_btn\"></span>",
+            "hasHistory": true
+        }
+    },
+    {
+        "id": "as-yBKnFM",
+        "data": {
+            "id": "b2ab0cb6-a91c-11ed-9096-00155d8ed20b",
+            "name": "Видеокарта GIGABYTE GeForce RTX 3050 WINDFORCE OC [GV-N3050WF2OC-8GD]",
+            "price": {
+                "previous": 32499,
+                "current": 30499
+            },
+            "credit": {
+                "amount": 2973,
+                "period": 12
+            },
+            "primaryButton": "<span id=\"as-9r3Qaf\"></span>",
+            "wishlist": "<span id=\"as-RApqkH\" class=\"wishlist-button-placeholder wishlist-button-placeholder_btn\"></span>",
+            "hasHistory": true
+        }
+    },
+    {
+        "id": "as-RYCmIC",
+        "data": {
+            "id": "da9122a5-84c7-11ec-8f6d-00155d8ed20b",
+            "name": "Видеокарта ASUS GeForce RTX 3050 Dual OC Edition [DUAL-RTX3050-O8G]",
+            "price": {
+                "previous": 33499,
+                "current": 28999
+            },
+            "credit": {
+                "amount": 2827,
+                "period": 12
+            },
+            "primaryButton": "<span id=\"as-2isCnx\"></span>",
+            "wishlist": "<span id=\"as-FYhHxO\" class=\"wishlist-button-placeholder wishlist-button-placeholder_btn\"></span>",
+            "hasHistory": true
+        }
+    },
+    {
+        "id": "as-Xrb5LO",
+        "data": {
+            "id": "1a200d8c-b329-11e9-a20b-00155d03332b",
+            "name": "Видеокарта ASUS GeForce RTX 2060 Dual EVO OC Edition [DUAL-RTX2060-O6G-EVO]",
+            "price": {
+                "current": 26699
+            },
+            "credit": {
+                "amount": 2603,
+                "period": 12
+            },
+            "primaryButton": "<span id=\"as-Fssqpo\"></span>",
+            "wishlist": "<span id=\"as-mia9lU\" class=\"wishlist-button-placeholder wishlist-button-placeholder_btn\"></span>",
+            "isPrepay": false,
+            "tooltip": "Последняя цена продажи",
+            "hasHistory": true
+        }
+    },
+    {
+        "id": "as-iI5IJ9",
+        "data": {
+            "id": "22dde6cb-c2ee-11ed-90b2-00155d8ed20b",
+            "name": "Видеокарта Gainward GeForce RTX 2060 SUPER Ghost [NE6206S018P2-1160X-1]",
+            "avail": "Продажи прекращены",
+            "wishlist": "",
+            "tooltip": "Товар больше не будет представлен в сети компании ДНС"
+        }
+    },
+    {
+        "id": "as-JLKfQq",
+        "data": {
+            "id": "caa2100c-5a77-11ed-9045-00155d8ed20b",
+            "name": "Видеокарта Palit GeForce RTX 3060 StormX [NE63060019P1-190AF]",
+            "price": {
+                "current": 30999
+            },
+            "credit": {
+                "amount": 3022,
+                "period": 12
+            },
+            "primaryButton": "<span id=\"as-7gyB86\"></span>",
+            "wishlist": "<span id=\"as-7e6Vp0\" class=\"wishlist-button-placeholder wishlist-button-placeholder_btn\"></span>",
+            "hasHistory": true
+        }
+    },
+    {
+        "id": "as-im6Zz8",
+        "data": {
+            "id": "990fc96a-61fb-11eb-a212-00155df1b805",
+            "name": "Видеокарта Palit GeForce RTX 3060 StormX (LHR) [NE63060019K9-190AF]",
+            "price": {
+                "current": 36299
+            },
+            "credit": {
+                "amount": 3539,
+                "period": 12
+            },
+            "primaryButton": "<span id=\"as-fYYsKV\"></span>",
+            "wishlist": "<span id=\"as-96eJR3\" class=\"wishlist-button-placeholder wishlist-button-placeholder_btn\"></span>",
+            "hasHistory": true
+        }
+    },
+    {
+        "id": "as-5yNGjm",
+        "data": {
+            "id": "1f90adb2-a35b-11ed-9093-00155d8ed20c",
+            "name": "Видеокарта MSI Geforce RTX 3050 VENTUS 2X OCV1 [RTX 3050 VENTUS 2X 8G OCV1]",
+            "price": {
+                "previous": 32799,
+                "current": 28499
+            },
+            "credit": {
+                "amount": 2778,
+                "period": 12
+            },
+            "primaryButton": "<span id=\"as-_TCkbJ\"></span>",
+            "wishlist": "<span id=\"as-hkZCeh\" class=\"wishlist-button-placeholder wishlist-button-placeholder_btn\"></span>",
+            "hasHistory": true
+        }
+    },
+    {
+        "id": "as-jbOwO2",
+        "data": {
+            "id": "b3f658c5-8b04-11ec-8f72-00155d8ed209",
+            "name": "Видеокарта MSI GeForce RTX 3050 GAMING X [RTX 3050 GAMING X 8G]",
+            "price": {
+                "current": 31499
+            },
+            "credit": {
+                "amount": 3071,
+                "period": 12
+            },
+            "primaryButton": "<span id=\"as-_V5o1j\"></span>",
+            "wishlist": "<span id=\"as-CADpA3\" class=\"wishlist-button-placeholder wishlist-button-placeholder_btn\"></span>",
+            "isPrepay": false,
+            "tooltip": "Последняя цена продажи",
+            "hasHistory": true
+        }
+    },
+    {
+        "id": "as-7guaiD",
+        "data": {
+            "id": "f9e5ad61-5b51-11ed-9049-00155d8ed20c",
+            "name": "Видеокарта KFA2 GeForce RTX 3060 CORE [36NSL8MD6OCK]",
+            "price": {
+                "current": 32299
+            },
+            "credit": {
+                "amount": 3149,
+                "period": 12
+            },
+            "primaryButton": "<span id=\"as-hBLqBF\"></span>",
+            "wishlist": "<span id=\"as-PeWGMZ\" class=\"wishlist-button-placeholder wishlist-button-placeholder_btn\"></span>",
+            "hasHistory": true
+        }
+    },
+    {
+        "id": "as--ithhq",
+        "data": {
+            "id": "4c5c567c-3fb8-11ed-9028-00155d8ed20c",
+            "name": "Видеокарта Palit GeForce RTX 2060 SUPER Dual [NE6206S018P2-1160X-1]",
+            "price": {
+                "current": 33299
+            },
+            "credit": {
+                "amount": 3246,
+                "period": 12
+            },
+            "primaryButton": "<span id=\"as-jSeH51\"></span>",
+            "wishlist": "<span id=\"as-TO3DKc\" class=\"wishlist-button-placeholder wishlist-button-placeholder_btn\"></span>",
+            "isPrepay": false,
+            "tooltip": "Последняя цена продажи",
+            "hasHistory": true
+        }
+    },
+    {
+        "id": "as-1ltLE4",
+        "data": {
+            "id": "bfbb13b6-5364-11ed-903c-00155d8ed20b",
+            "name": "Видеокарта GIGABYTE GeForce RTX 3060 GAMING OC [GV-N3060GAMING OC-8GD]",
+            "price": {
+                "current": 40999
+            },
+            "credit": {
+                "amount": 3997,
+                "period": 12
+            },
+            "primaryButton": "<span id=\"as-4j49eH\"></span>",
+            "wishlist": "<span id=\"as-TTh2gz\" class=\"wishlist-button-placeholder wishlist-button-placeholder_btn\"></span>",
+            "isPrepay": false,
+            "tooltip": "Последняя цена продажи",
+            "hasHistory": true
+        }
+    }
+]

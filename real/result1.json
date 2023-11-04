@@ -1,0 +1,89 @@
+[
+    {
+        "Name": "Видеокарта KFA2 GeForce RTX 3050 X White [35NSL8MD5WEK]",
+        "id": "f6ddae74-be44-11ed-90b0-00155d8ed20c",
+        "Default_price": 27299
+    },
+    {
+        "Name": "Видеокарта Palit GeForce RTX 3050 Dual [NE63050018P1-1070D]",
+        "id": "3ee95cc2-ca2a-11ed-90bc-00155d8ed20c",
+        "Default_price": 26999,
+        "Price_with_discount": 24799,
+        "Discount": 2200
+    },
+    {
+        "Name": "Видеокарта Palit GeForce RTX 3050 StormX [NE63050018P1-1070F]",
+        "id": "f772a345-7b77-11ed-906c-00155d8ed20c",
+        "Default_price": 27999
+    },
+    {
+        "Name": "Видеокарта GIGABYTE GeForce RTX 3050 GAMING OC [GV-N3050GAMING OC-8GD]",
+        "id": "7a581276-6493-11ec-8f50-00155d8ed20c",
+        "Default_price": 31499
+    },
+    {
+        "Name": "Видеокарта KFA2 GeForce RTX 3050 X Black [35NSL8MD6YEK]",
+        "id": "5a74a341-71b1-11ec-8f5a-00155d8ed20b",
+        "Default_price": 25999
+    },
+    {
+        "Name": "Видеокарта ASUS GeForce RTX 2060 Dual EVO [DUAL-RTX2060-6G-EVO]",
+        "id": "8876673e-2525-11ea-a20c-00155df1b805",
+        "Default_price": 28699
+    },
+    {
+        "Name": "Видеокарта MSI GeForce RTX 3050 VENTUS 2X OC [RTX 3050 VENTUS 2X 8G OC]",
+        "id": "b3f658c7-8b04-11ec-8f72-00155d8ed209",
+        "Default_price": 28399
+    },
+    {
+        "Name": "Видеокарта GIGABYTE GeForce RTX 3050 WINDFORCE OC [GV-N3050WF2OC-8GD]",
+        "id": "b2ab0cb6-a91c-11ed-9096-00155d8ed20b",
+        "Default_price": 30499
+    },
+    {
+        "Name": "Видеокарта ASUS GeForce RTX 3050 Dual OC Edition [DUAL-RTX3050-O8G]",
+        "id": "da9122a5-84c7-11ec-8f6d-00155d8ed20b",
+        "Default_price": 28999
+    },
+    {
+        "Name": "Видеокарта ASUS GeForce RTX 2060 Dual EVO OC Edition [DUAL-RTX2060-O6G-EVO]",
+        "id": "1a200d8c-b329-11e9-a20b-00155d03332b",
+        "Default_price": 26699
+    },
+    {
+        "Name": "Видеокарта Palit GeForce RTX 3060 StormX [NE63060019P1-190AF]",
+        "id": "caa2100c-5a77-11ed-9045-00155d8ed20b",
+        "Default_price": 30999
+    },
+    {
+        "Name": "Видеокарта Palit GeForce RTX 3060 StormX (LHR) [NE63060019K9-190AF]",
+        "id": "990fc96a-61fb-11eb-a212-00155df1b805",
+        "Default_price": 36299
+    },
+    {
+        "Name": "Видеокарта MSI Geforce RTX 3050 VENTUS 2X OCV1 [RTX 3050 VENTUS 2X 8G OCV1]",
+        "id": "1f90adb2-a35b-11ed-9093-00155d8ed20c",
+        "Default_price": 28499
+    },
+    {
+        "Name": "Видеокарта MSI GeForce RTX 3050 GAMING X [RTX 3050 GAMING X 8G]",
+        "id": "b3f658c5-8b04-11ec-8f72-00155d8ed209",
+        "Default_price": 31499
+    },
+    {
+        "Name": "Видеокарта KFA2 GeForce RTX 3060 CORE [36NSL8MD6OCK]",
+        "id": "f9e5ad61-5b51-11ed-9049-00155d8ed20c",
+        "Default_price": 32299
+    },
+    {
+        "Name": "Видеокарта Palit GeForce RTX 2060 SUPER Dual [NE6206S018P2-1160X-1]",
+        "id": "4c5c567c-3fb8-11ed-9028-00155d8ed20c",
+        "Default_price": 33299
+    },
+    {
+        "Name": "Видеокарта GIGABYTE GeForce RTX 3060 GAMING OC [GV-N3060GAMING OC-8GD]",
+        "id": "bfbb13b6-5364-11ed-903c-00155d8ed20b",
+        "Default_price": 40999
+    }
+]
